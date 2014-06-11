@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\12_ExtractBitFromInteger\bin\Debug\12_ExtractBitFromInteger.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\12_ExtractBitFromInteger\bin\Debug\12_ExtractBitFromInteger.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\12_ExtractBitFromInteger\bin\Debug\12_ExtractBitFromInteger.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\12_ExtractBitFromInteger\obj\Debug\12_ExtractBitFromInteger.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\12_ExtractBitFromInteger\obj\Debug\12_ExtractBitFromInteger.pdb

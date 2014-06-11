@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\21_BitSifting\bin\Debug\21_BitSifting.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\21_BitSifting\bin\Debug\21_BitSifting.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\21_BitSifting\bin\Debug\21_BitSifting.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\21_BitSifting\obj\Debug\21_BitSifting.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\21_BitSifting\obj\Debug\21_BitSifting.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\21_BitSifting\obj\Debug\21_BitSifting.pdb

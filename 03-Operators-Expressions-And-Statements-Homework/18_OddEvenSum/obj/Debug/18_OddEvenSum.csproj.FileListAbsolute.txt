@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\18_OddEvenSum\bin\Debug\18_OddEvenSum.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\18_OddEvenSum\bin\Debug\18_OddEvenSum.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\18_OddEvenSum\bin\Debug\18_OddEvenSum.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\18_OddEvenSum\obj\Debug\18_OddEvenSum.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\18_OddEvenSum\obj\Debug\18_OddEvenSum.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\18_OddEvenSum\obj\Debug\18_OddEvenSum.pdb

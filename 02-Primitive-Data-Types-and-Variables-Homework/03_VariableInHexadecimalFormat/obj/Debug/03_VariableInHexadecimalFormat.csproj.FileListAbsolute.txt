@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\03_VariableInHexadecimalFormat\bin\Debug\03_VariableInHexadecimalFormat.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\03_VariableInHexadecimalFormat\bin\Debug\03_VariableInHexadecimalFormat.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\03_VariableInHexadecimalFormat\bin\Debug\03_VariableInHexadecimalFormat.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\03_VariableInHexadecimalFormat\obj\Debug\03_VariableInHexadecimalFormat.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\03_VariableInHexadecimalFormat\obj\Debug\03_VariableInHexadecimalFormat.pdb

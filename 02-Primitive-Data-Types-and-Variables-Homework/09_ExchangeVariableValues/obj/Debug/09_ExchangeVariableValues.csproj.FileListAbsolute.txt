@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\09_ExchangeVariableValues\bin\Debug\09_ExchangeVariableValues.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\09_ExchangeVariableValues\bin\Debug\09_ExchangeVariableValues.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\09_ExchangeVariableValues\bin\Debug\09_ExchangeVariableValues.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\09_ExchangeVariableValues\obj\Debug\09_ExchangeVariableValues.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\09_ExchangeVariableValues\obj\Debug\09_ExchangeVariableValues.pdb

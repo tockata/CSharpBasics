@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\05_ChekIfThirdDigitIsSeven\bin\Debug\05_ChekIfThirdDigitIsSeven.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\05_ChekIfThirdDigitIsSeven\bin\Debug\05_ChekIfThirdDigitIsSeven.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\05_ChekIfThirdDigitIsSeven\bin\Debug\05_ChekIfThirdDigitIsSeven.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\05_ChekIfThirdDigitIsSeven\obj\Debug\05_ChekIfThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\05_ChekIfThirdDigitIsSeven\obj\Debug\05_ChekIfThirdDigitIsSeven.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\05_ChekIfThirdDigitIsSeven\obj\Debug\05_ChekIfThirdDigitIsSeven.pdb

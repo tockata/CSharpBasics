@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\05_PrintMyName\bin\Debug\05_PrintMyName.exe.config
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\05_PrintMyName\bin\Debug\05_PrintMyName.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\05_PrintMyName\bin\Debug\05_PrintMyName.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\05_PrintMyName\obj\Debug\05_PrintMyName.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\05_PrintMyName\obj\Debug\05_PrintMyName.pdb

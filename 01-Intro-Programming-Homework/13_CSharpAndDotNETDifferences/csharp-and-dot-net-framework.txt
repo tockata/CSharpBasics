@@ -1,0 +1,2 @@
+.NET is an application development framework - it contains numerous libraries containing a range of functionality. It is also a runtime for executing applications.
+C# is object oriented programming language created for use with .NET. It's not the only .NET-compatible language - other options include VB.NET, F#, Managed C++, IronRuby, and IronPython.

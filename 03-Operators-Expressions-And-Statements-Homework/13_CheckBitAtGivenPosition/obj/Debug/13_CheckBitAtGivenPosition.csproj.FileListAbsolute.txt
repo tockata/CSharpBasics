@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\13_CheckBitAtGivenPosition\bin\Debug\13_CheckBitAtGivenPosition.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\13_CheckBitAtGivenPosition\bin\Debug\13_CheckBitAtGivenPosition.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\13_CheckBitAtGivenPosition\bin\Debug\13_CheckBitAtGivenPosition.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\13_CheckBitAtGivenPosition\obj\Debug\13_CheckBitAtGivenPosition.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\13_CheckBitAtGivenPosition\obj\Debug\13_CheckBitAtGivenPosition.pdb

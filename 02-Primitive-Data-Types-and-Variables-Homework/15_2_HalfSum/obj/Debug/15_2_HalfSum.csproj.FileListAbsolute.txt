@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_2_HalfSum\bin\Debug\15_2_HalfSum.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_2_HalfSum\bin\Debug\15_2_HalfSum.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_2_HalfSum\bin\Debug\15_2_HalfSum.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_2_HalfSum\obj\Debug\15_2_HalfSum.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_2_HalfSum\obj\Debug\15_2_HalfSum.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_2_HalfSum\obj\Debug\15_2_HalfSum.pdb

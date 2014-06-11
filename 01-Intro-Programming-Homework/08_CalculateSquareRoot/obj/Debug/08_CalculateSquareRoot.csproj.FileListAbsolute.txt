@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\08_CalculateSquareRoot\bin\Debug\08_CalculateSquareRoot.exe.config
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\08_CalculateSquareRoot\bin\Debug\08_CalculateSquareRoot.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\08_CalculateSquareRoot\bin\Debug\08_CalculateSquareRoot.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\08_CalculateSquareRoot\obj\Debug\08_CalculateSquareRoot.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\08_CalculateSquareRoot\obj\Debug\08_CalculateSquareRoot.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\08_CalculateSquareRoot\obj\Debug\08_CalculateSquareRoot.pdb

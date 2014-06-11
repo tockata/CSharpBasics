@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\04_HelloCSharp\bin\Debug\04_HelloCSharp.exe.config
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\04_HelloCSharp\bin\Debug\04_HelloCSharp.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\04_HelloCSharp\bin\Debug\04_HelloCSharp.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\04_HelloCSharp\obj\Debug\04_HelloCSharp.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\04_HelloCSharp\obj\Debug\04_HelloCSharp.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\04_HelloCSharp\obj\Debug\04_HelloCSharp.csprojResolveAssemblyReference.cache

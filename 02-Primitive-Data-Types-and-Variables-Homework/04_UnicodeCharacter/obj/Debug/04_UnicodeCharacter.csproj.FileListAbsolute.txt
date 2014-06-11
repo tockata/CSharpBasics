@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\04_UnicodeCharacter\bin\Debug\04_UnicodeCharacter.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\04_UnicodeCharacter\bin\Debug\04_UnicodeCharacter.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\04_UnicodeCharacter\bin\Debug\04_UnicodeCharacter.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\04_UnicodeCharacter\obj\Debug\04_UnicodeCharacter.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\04_UnicodeCharacter\obj\Debug\04_UnicodeCharacter.pdb

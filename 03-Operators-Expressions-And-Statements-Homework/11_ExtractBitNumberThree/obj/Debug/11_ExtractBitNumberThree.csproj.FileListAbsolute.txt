@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\11_ExtractBitNumberThree\bin\Debug\11_ExtractBitNumberThree.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\11_ExtractBitNumberThree\obj\Debug\11_ExtractBitNumberThree.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\11_ExtractBitNumberThree\bin\Debug\11_ExtractBitNumberThree.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\11_ExtractBitNumberThree\bin\Debug\11_ExtractBitNumberThree.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\11_ExtractBitNumberThree\obj\Debug\11_ExtractBitNumberThree.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\11_ExtractBitNumberThree\obj\Debug\11_ExtractBitNumberThree.pdb

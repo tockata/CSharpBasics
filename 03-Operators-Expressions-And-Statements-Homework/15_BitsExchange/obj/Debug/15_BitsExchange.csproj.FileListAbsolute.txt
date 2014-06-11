@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\15_BitsExchange\bin\Debug\15_BitsExchange.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\15_BitsExchange\bin\Debug\15_BitsExchange.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\15_BitsExchange\bin\Debug\15_BitsExchange.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\15_BitsExchange\obj\Debug\15_BitsExchange.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\15_BitsExchange\obj\Debug\15_BitsExchange.pdb

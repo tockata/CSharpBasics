@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\10_ReformatCSharpCode\bin\Debug\10_ReformatCSharpCode.exe.config
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\10_ReformatCSharpCode\bin\Debug\10_ReformatCSharpCode.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\10_ReformatCSharpCode\bin\Debug\10_ReformatCSharpCode.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\10_ReformatCSharpCode\obj\Debug\10_ReformatCSharpCode.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\10_ReformatCSharpCode\obj\Debug\10_ReformatCSharpCode.pdb

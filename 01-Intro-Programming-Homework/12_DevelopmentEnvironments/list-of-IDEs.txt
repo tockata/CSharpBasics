@@ -1,0 +1,14 @@
+1. Microsoft Visual Studio
+Microsoft Visual Studio is an integrated development environment from Microsoft. Visual Studio supports different programming languages and allows the code editor and debugger to support (to varying degrees) nearly any programming language, provided a language-specific service exists. Built-in languages include C, C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010[6]). Support for other languages such as M, Python, and Ruby among others is available via language services installed separately. It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS.
+
+2. Eclipse
+Eclipse is an integrated development environment written mostly in Java. With various plug-ins, Eclipse may be used to develop applications in many programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, Java, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+3. PyCharm
+PyCharm is one of the most popular Python IDEs developed by JetBrains. It’s packed with features such as code completion, code analysis, code navigation, top-notch Django, JavaScript, HTML, and CSS support, great debugger, etc. It is cross-platform working on Windows, Mac OS X and Linux.
+
+4. Xcode
+Xcode is an integrated development environment containing a suite of software development tools developed by Apple for developing software for OS X and iOS. It is released in 2003.
+
+5. Netbeans
+NetBeans is an integrated development environment for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.

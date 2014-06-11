@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\10_EmployeeData\bin\Debug\10_EmployeeData.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\10_EmployeeData\bin\Debug\10_EmployeeData.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\10_EmployeeData\bin\Debug\10_EmployeeData.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\10_EmployeeData\obj\Debug\10_EmployeeData.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\10_EmployeeData\obj\Debug\10_EmployeeData.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\10_EmployeeData\obj\Debug\10_EmployeeData.pdb

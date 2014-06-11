@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\20_BitsUp\bin\Debug\20_BitsUp.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\20_BitsUp\bin\Debug\20_BitsUp.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\20_BitsUp\bin\Debug\20_BitsUp.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\20_BitsUp\obj\Debug\20_BitsUp.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\20_BitsUp\obj\Debug\20_BitsUp.pdb

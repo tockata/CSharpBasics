@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\07_QuotesInStrings\bin\Debug\07_QuotesInStrings.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\07_QuotesInStrings\bin\Debug\07_QuotesInStrings.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\07_QuotesInStrings\bin\Debug\07_QuotesInStrings.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\07_QuotesInStrings\obj\Debug\07_QuotesInStrings.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\07_QuotesInStrings\obj\Debug\07_QuotesInStrings.pdb

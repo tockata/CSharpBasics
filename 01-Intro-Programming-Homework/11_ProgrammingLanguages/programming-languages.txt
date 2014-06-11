@@ -1,0 +1,22 @@
+1. Java
+Java is a class-based, object-oriented programming language developed by Sun Microsystems in the 1995. It's one of the most in-demand programming languages, a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system. Java is designed to work across multiple software platforms.
+
+2. C#
+C# is an object oriented programming language developed in 2000 by Microsoft. C# is very similar to Java in terms of capabilities. It has been said that C# combines the robustness of C++ with the advanced features of Java. C# language is used to develop almost all types of software applications that come with Visual Studio IDE. 
+
+3. Python
+Python is a high-level, server-side, object-oriented, scripting language for websites and mobile apps. It's considered a fairly easy language for beginners due to its readability and compact syntax, meaning developers can use fewer lines of code to express a concept than they would in other languages. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes.
+
+4. JavaScript
+JavaScript is a dynamic, client and server-side scripting language developed by Netscape that derives much of its syntax from C. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions. It is also used in game development and writing desktop applications.
+
+5. PHP
+PHP (Hypertext Processor) is a free, server-side scripting language designed for dynamic websites and app development. PHP powers more than 240 million websites and 2.1 million web servers.
+
+Similarity between C# and other four languages:
+- imperative languages;
+- object oriented languages;
+- reflective languages;
+
+Differences between C# and other four languages:
+- C# is generic language /as well as Java/, but JavaScript, Python and PHP are not;

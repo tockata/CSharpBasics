@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\19_TheExplorer\bin\Debug\19_TheExplorer.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\19_TheExplorer\bin\Debug\19_TheExplorer.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\19_TheExplorer\bin\Debug\19_TheExplorer.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\19_TheExplorer\obj\Debug\19_TheExplorer.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\19_TheExplorer\obj\Debug\19_TheExplorer.pdb

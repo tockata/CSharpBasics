@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\06_PrintNumbers\bin\Debug\06_PrintNumbers.exe.config
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\06_PrintNumbers\bin\Debug\06_PrintNumbers.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\06_PrintNumbers\bin\Debug\06_PrintNumbers.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\06_PrintNumbers\obj\Debug\06_PrintNumbers.exe
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\06_PrintNumbers\obj\Debug\06_PrintNumbers.pdb
+D:\C#\C#Basics-Homeworks\Intro-Programming-Homework\06_PrintNumbers\obj\Debug\06_PrintNumbers.csprojResolveAssemblyReference.cache

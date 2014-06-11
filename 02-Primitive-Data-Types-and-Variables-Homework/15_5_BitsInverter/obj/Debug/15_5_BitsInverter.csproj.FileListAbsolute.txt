@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_5_BitsInverter\bin\Debug\15_5_BitsInverter.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_5_BitsInverter\bin\Debug\15_5_BitsInverter.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_5_BitsInverter\bin\Debug\15_5_BitsInverter.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_5_BitsInverter\obj\Debug\15_5_BitsInverter.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_5_BitsInverter\obj\Debug\15_5_BitsInverter.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_5_BitsInverter\obj\Debug\15_5_BitsInverter.pdb

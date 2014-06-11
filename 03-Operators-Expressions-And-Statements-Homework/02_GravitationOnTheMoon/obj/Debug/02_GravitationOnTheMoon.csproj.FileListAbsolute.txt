@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\02_GravitationOnTheMoon\bin\Debug\02_GravitationOnTheMoon.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\02_GravitationOnTheMoon\bin\Debug\02_GravitationOnTheMoon.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\02_GravitationOnTheMoon\bin\Debug\02_GravitationOnTheMoon.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\02_GravitationOnTheMoon\obj\Debug\02_GravitationOnTheMoon.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\02_GravitationOnTheMoon\obj\Debug\02_GravitationOnTheMoon.pdb

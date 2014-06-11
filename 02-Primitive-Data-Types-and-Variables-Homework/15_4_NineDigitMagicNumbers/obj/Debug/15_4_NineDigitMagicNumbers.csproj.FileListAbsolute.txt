@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_4_NineDigitMagicNumbers\bin\Debug\15_4_NineDigitMagicNumbers.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_4_NineDigitMagicNumbers\bin\Debug\15_4_NineDigitMagicNumbers.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_4_NineDigitMagicNumbers\bin\Debug\15_4_NineDigitMagicNumbers.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_4_NineDigitMagicNumbers\obj\Debug\15_4_NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_4_NineDigitMagicNumbers\obj\Debug\15_4_NineDigitMagicNumbers.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_4_NineDigitMagicNumbers\obj\Debug\15_4_NineDigitMagicNumbers.pdb

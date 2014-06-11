@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_3_Sunglasses\bin\Debug\15_3_Sunglasses.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_3_Sunglasses\bin\Debug\15_3_Sunglasses.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_3_Sunglasses\bin\Debug\15_3_Sunglasses.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_3_Sunglasses\obj\Debug\15_3_Sunglasses.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_3_Sunglasses\obj\Debug\15_3_Sunglasses.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_3_Sunglasses\obj\Debug\15_3_Sunglasses.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_1_JoroTheFootballPlayer\bin\Debug\15_1_JoroTheFootballPlayer.exe.config
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_1_JoroTheFootballPlayer\obj\Debug\15_1_JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_1_JoroTheFootballPlayer\bin\Debug\15_1_JoroTheFootballPlayer.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_1_JoroTheFootballPlayer\bin\Debug\15_1_JoroTheFootballPlayer.pdb
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_1_JoroTheFootballPlayer\obj\Debug\15_1_JoroTheFootballPlayer.exe
+D:\C#\C#Basics-Homeworks\Primitive-Data-Types-and-Variables\15_1_JoroTheFootballPlayer\obj\Debug\15_1_JoroTheFootballPlayer.pdb

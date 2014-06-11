@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\08_PrimeNumberCheck\bin\Debug\08_PrimeNumberCheck.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\08_PrimeNumberCheck\bin\Debug\08_PrimeNumberCheck.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\08_PrimeNumberCheck\bin\Debug\08_PrimeNumberCheck.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\08_PrimeNumberCheck\obj\Debug\08_PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\08_PrimeNumberCheck\obj\Debug\08_PrimeNumberCheck.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\08_PrimeNumberCheck\obj\Debug\08_PrimeNumberCheck.pdb

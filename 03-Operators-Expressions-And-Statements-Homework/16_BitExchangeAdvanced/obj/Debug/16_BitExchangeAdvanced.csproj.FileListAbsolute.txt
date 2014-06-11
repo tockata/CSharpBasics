@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\16_BitExchangeAdvanced\bin\Debug\16_BitExchangeAdvanced.exe.config
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\16_BitExchangeAdvanced\bin\Debug\16_BitExchangeAdvanced.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\16_BitExchangeAdvanced\bin\Debug\16_BitExchangeAdvanced.pdb
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\16_BitExchangeAdvanced\obj\Debug\16_BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\16_BitExchangeAdvanced\obj\Debug\16_BitExchangeAdvanced.exe
+D:\C#\C#Basics-Homeworks\OperatorsExpressionsAndStatements\16_BitExchangeAdvanced\obj\Debug\16_BitExchangeAdvanced.pdb
