@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\02_PrintCompanyInformation\bin\Debug\02_PrintCompanyInformation.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\02_PrintCompanyInformation\bin\Debug\02_PrintCompanyInformation.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\02_PrintCompanyInformation\bin\Debug\02_PrintCompanyInformation.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\02_PrintCompanyInformation\obj\Debug\02_PrintCompanyInformation.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\02_PrintCompanyInformation\obj\Debug\02_PrintCompanyInformation.pdb

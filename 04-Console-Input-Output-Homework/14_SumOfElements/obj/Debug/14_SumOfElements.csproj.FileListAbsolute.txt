@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\14_SumOfElements\bin\Debug\14_SumOfElements.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\14_SumOfElements\bin\Debug\14_SumOfElements.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\14_SumOfElements\bin\Debug\14_SumOfElements.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\14_SumOfElements\obj\Debug\14_SumOfElements.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\14_SumOfElements\obj\Debug\14_SumOfElements.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\14_SumOfElements\obj\Debug\14_SumOfElements.csprojResolveAssemblyReference.cache

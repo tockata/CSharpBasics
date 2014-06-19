@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\07_Sumof5Numbers\bin\Debug\07_Sumof5Numbers.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\07_Sumof5Numbers\bin\Debug\07_Sumof5Numbers.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\07_Sumof5Numbers\bin\Debug\07_Sumof5Numbers.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\07_Sumof5Numbers\obj\Debug\07_Sumof5Numbers.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\07_Sumof5Numbers\obj\Debug\07_Sumof5Numbers.pdb

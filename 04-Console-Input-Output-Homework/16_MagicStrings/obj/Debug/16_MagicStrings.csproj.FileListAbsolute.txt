@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\16_MagicStrings\bin\Debug\16_MagicStrings.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\16_MagicStrings\bin\Debug\16_MagicStrings.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\16_MagicStrings\bin\Debug\16_MagicStrings.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\16_MagicStrings\obj\Debug\16_MagicStrings.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\16_MagicStrings\obj\Debug\16_MagicStrings.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\16_MagicStrings\obj\Debug\16_MagicStrings.pdb

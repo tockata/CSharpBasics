@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\15_NewHouse\bin\Debug\15_NewHouse.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\15_NewHouse\bin\Debug\15_NewHouse.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\15_NewHouse\bin\Debug\15_NewHouse.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\15_NewHouse\obj\Debug\15_NewHouse.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\15_NewHouse\obj\Debug\15_NewHouse.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\15_NewHouse\obj\Debug\15_NewHouse.pdb

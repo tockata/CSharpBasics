@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\08_NumbersFrom1ToN\bin\Debug\08_NumbersFrom1ToN.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\08_NumbersFrom1ToN\bin\Debug\08_NumbersFrom1ToN.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\08_NumbersFrom1ToN\bin\Debug\08_NumbersFrom1ToN.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\08_NumbersFrom1ToN\obj\Debug\08_NumbersFrom1ToN.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\08_NumbersFrom1ToN\obj\Debug\08_NumbersFrom1ToN.pdb

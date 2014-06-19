@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\03_CirclePerimeterAndArea\bin\Debug\03_CirclePerimeterAndArea.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\03_CirclePerimeterAndArea\bin\Debug\03_CirclePerimeterAndArea.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\03_CirclePerimeterAndArea\bin\Debug\03_CirclePerimeterAndArea.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\03_CirclePerimeterAndArea\obj\Debug\03_CirclePerimeterAndArea.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\03_CirclePerimeterAndArea\obj\Debug\03_CirclePerimeterAndArea.pdb

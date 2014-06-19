@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\09_SumOfNNumbers\bin\Debug\09_SumOfNNumbers.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\09_SumOfNNumbers\bin\Debug\09_SumOfNNumbers.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\09_SumOfNNumbers\bin\Debug\09_SumOfNNumbers.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\09_SumOfNNumbers\obj\Debug\09_SumOfNNumbers.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\09_SumOfNNumbers\obj\Debug\09_SumOfNNumbers.pdb

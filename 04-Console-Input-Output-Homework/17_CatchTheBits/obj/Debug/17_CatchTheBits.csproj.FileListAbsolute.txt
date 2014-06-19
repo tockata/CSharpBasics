@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\17_CatchTheBits\bin\Debug\17_CatchTheBits.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\17_CatchTheBits\bin\Debug\17_CatchTheBits.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\17_CatchTheBits\bin\Debug\17_CatchTheBits.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\17_CatchTheBits\obj\Debug\17_CatchTheBits.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\17_CatchTheBits\obj\Debug\17_CatchTheBits.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\17_CatchTheBits\obj\Debug\17_CatchTheBits.pdb

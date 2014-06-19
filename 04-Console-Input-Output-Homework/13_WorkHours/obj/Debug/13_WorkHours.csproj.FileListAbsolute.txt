@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\13_WorkHours\bin\Debug\13_WorkHours.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\13_WorkHours\bin\Debug\13_WorkHours.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\13_WorkHours\bin\Debug\13_WorkHours.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\13_WorkHours\obj\Debug\13_WorkHours.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\13_WorkHours\obj\Debug\13_WorkHours.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\13_WorkHours\obj\Debug\13_WorkHours.pdb

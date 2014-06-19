@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\04_NumberComparer\bin\Debug\04_NumberComparer.exe.config
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\04_NumberComparer\bin\Debug\04_NumberComparer.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\04_NumberComparer\bin\Debug\04_NumberComparer.pdb
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\04_NumberComparer\obj\Debug\04_NumberComparer.exe
+D:\C#\C#Basics-Homeworks\04_Console-Input-Output-Homework\04_NumberComparer\obj\Debug\04_NumberComparer.pdb
