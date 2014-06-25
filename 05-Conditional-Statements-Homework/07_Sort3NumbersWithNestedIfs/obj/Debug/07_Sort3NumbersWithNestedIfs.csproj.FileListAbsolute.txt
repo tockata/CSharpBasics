@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\07_Sort3NumbersWithNestedIfs\bin\Debug\07_Sort3NumbersWithNestedIfs.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\07_Sort3NumbersWithNestedIfs\bin\Debug\07_Sort3NumbersWithNestedIfs.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\07_Sort3NumbersWithNestedIfs\bin\Debug\07_Sort3NumbersWithNestedIfs.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\07_Sort3NumbersWithNestedIfs\obj\Debug\07_Sort3NumbersWithNestedIfs.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\07_Sort3NumbersWithNestedIfs\obj\Debug\07_Sort3NumbersWithNestedIfs.pdb

@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\17_BitKiller\bin\Debug\17_BitKiller.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\17_BitKiller\bin\Debug\17_BitKiller.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\17_BitKiller\bin\Debug\17_BitKiller.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\17_BitKiller\obj\Debug\17_BitKiller.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\17_BitKiller\obj\Debug\17_BitKiller.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\17_BitKiller\obj\Debug\17_BitKiller.pdb

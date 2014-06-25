@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\15_House\bin\Debug\15_House.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\15_House\bin\Debug\15_House.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\15_House\bin\Debug\15_House.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\15_House\obj\Debug\15_House.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\15_House\obj\Debug\15_House.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\15_House\obj\Debug\15_House.pdb

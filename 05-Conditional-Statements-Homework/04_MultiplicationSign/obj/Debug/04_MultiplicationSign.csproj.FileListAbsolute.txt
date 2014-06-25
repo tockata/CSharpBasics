@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\04_MultiplicationSign\bin\Debug\04_MultiplicationSign.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\04_MultiplicationSign\bin\Debug\04_MultiplicationSign.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\04_MultiplicationSign\bin\Debug\04_MultiplicationSign.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\04_MultiplicationSign\obj\Debug\04_MultiplicationSign.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\04_MultiplicationSign\obj\Debug\04_MultiplicationSign.pdb

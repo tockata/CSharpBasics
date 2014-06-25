@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\10_BeerTime\bin\Debug\10_BeerTime.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\10_BeerTime\obj\Debug\10_BeerTime.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\10_BeerTime\bin\Debug\10_BeerTime.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\10_BeerTime\bin\Debug\10_BeerTime.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\10_BeerTime\obj\Debug\10_BeerTime.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\10_BeerTime\obj\Debug\10_BeerTime.pdb

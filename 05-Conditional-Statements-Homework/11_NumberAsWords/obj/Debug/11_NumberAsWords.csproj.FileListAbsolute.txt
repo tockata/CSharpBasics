@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\11_NumberAsWords\bin\Debug\11_NumberAsWords.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\11_NumberAsWords\bin\Debug\11_NumberAsWords.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\11_NumberAsWords\bin\Debug\11_NumberAsWords.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\11_NumberAsWords\obj\Debug\11_NumberAsWords.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\11_NumberAsWords\obj\Debug\11_NumberAsWords.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\11_NumberAsWords\obj\Debug\11_NumberAsWords.pdb

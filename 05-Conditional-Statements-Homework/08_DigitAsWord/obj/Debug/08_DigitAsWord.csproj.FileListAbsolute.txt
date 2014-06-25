@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\08_DigitAsWord\bin\Debug\08_DigitAsWord.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\08_DigitAsWord\obj\Debug\08_DigitAsWord.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\08_DigitAsWord\obj\Debug\08_DigitAsWord.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\08_DigitAsWord\obj\Debug\08_DigitAsWord.pdb

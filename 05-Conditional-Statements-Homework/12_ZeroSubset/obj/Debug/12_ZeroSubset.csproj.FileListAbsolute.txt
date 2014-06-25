@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\12_ZeroSubset\bin\Debug\12_ZeroSubset.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\12_ZeroSubset\bin\Debug\12_ZeroSubset.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\12_ZeroSubset\bin\Debug\12_ZeroSubset.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\12_ZeroSubset\obj\Debug\12_ZeroSubset.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\12_ZeroSubset\obj\Debug\12_ZeroSubset.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\12_ZeroSubset\obj\Debug\12_ZeroSubset.pdb

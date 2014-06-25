@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\02_BonusScore\bin\Debug\02_BonusScore.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\02_BonusScore\bin\Debug\02_BonusScore.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\02_BonusScore\bin\Debug\02_BonusScore.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\02_BonusScore\obj\Debug\02_BonusScore.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\02_BonusScore\obj\Debug\02_BonusScore.pdb

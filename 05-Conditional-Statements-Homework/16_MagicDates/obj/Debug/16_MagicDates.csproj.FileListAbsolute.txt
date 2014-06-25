@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\16_MagicDates\bin\Debug\16_MagicDates.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\16_MagicDates\bin\Debug\16_MagicDates.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\16_MagicDates\bin\Debug\16_MagicDates.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\16_MagicDates\obj\Debug\16_MagicDates.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\16_MagicDates\obj\Debug\16_MagicDates.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\16_MagicDates\obj\Debug\16_MagicDates.pdb

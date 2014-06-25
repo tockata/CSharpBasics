@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.exe.config
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.pdb
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\06_TheBiggestOfFiveNumbers\obj\Debug\06_TheBiggestOfFiveNumbers.exe
+D:\C#\C#Basics-Homeworks\05_Conditional-Statements-Homework\06_TheBiggestOfFiveNumbers\obj\Debug\06_TheBiggestOfFiveNumbers.pdb
