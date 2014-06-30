@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\23_FiveSpecialLetters\bin\Debug\23_FiveSpecialLetters.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\23_FiveSpecialLetters\bin\Debug\23_FiveSpecialLetters.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\23_FiveSpecialLetters\bin\Debug\23_FiveSpecialLetters.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\23_FiveSpecialLetters\obj\Debug\23_FiveSpecialLetters.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\23_FiveSpecialLetters\obj\Debug\23_FiveSpecialLetters.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\23_FiveSpecialLetters\obj\Debug\23_FiveSpecialLetters.pdb

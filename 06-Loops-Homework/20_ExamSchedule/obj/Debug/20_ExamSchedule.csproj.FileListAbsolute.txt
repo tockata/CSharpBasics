@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\20_ExamSchedule\bin\Debug\20_ExamSchedule.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\20_ExamSchedule\bin\Debug\20_ExamSchedule.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\20_ExamSchedule\bin\Debug\20_ExamSchedule.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\20_ExamSchedule\obj\Debug\20_ExamSchedule.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\20_ExamSchedule\obj\Debug\20_ExamSchedule.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\20_ExamSchedule\obj\Debug\20_ExamSchedule.pdb

@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\18_TrailingZeroesInNFactorial\bin\Debug\18_TrailingZeroesInNFactorial.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\18_TrailingZeroesInNFactorial\bin\Debug\18_TrailingZeroesInNFactorial.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\18_TrailingZeroesInNFactorial\bin\Debug\18_TrailingZeroesInNFactorial.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\18_TrailingZeroesInNFactorial\obj\Debug\18_TrailingZeroesInNFactorial.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\18_TrailingZeroesInNFactorial\obj\Debug\18_TrailingZeroesInNFactorial.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\18_TrailingZeroesInNFactorial\obj\Debug\18_TrailingZeroesInNFactorial.pdb

@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\24_BitRoller\bin\Debug\24_BitRoller.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\24_BitRoller\bin\Debug\24_BitRoller.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\24_BitRoller\bin\Debug\24_BitRoller.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\24_BitRoller\obj\Debug\24_BitRoller.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\24_BitRoller\obj\Debug\24_BitRoller.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\24_BitRoller\obj\Debug\24_BitRoller.pdb

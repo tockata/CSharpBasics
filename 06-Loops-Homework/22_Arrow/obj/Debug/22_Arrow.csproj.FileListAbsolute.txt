@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\22_Arrow\bin\Debug\22_Arrow.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\22_Arrow\bin\Debug\22_Arrow.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\22_Arrow\bin\Debug\22_Arrow.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\22_Arrow\obj\Debug\22_Arrow.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\22_Arrow\obj\Debug\22_Arrow.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\22_Arrow\obj\Debug\22_Arrow.pdb

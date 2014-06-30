@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\10_OddAndEvenProduct\bin\Debug\10_OddAndEvenProduct.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\10_OddAndEvenProduct\bin\Debug\10_OddAndEvenProduct.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\10_OddAndEvenProduct\bin\Debug\10_OddAndEvenProduct.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\10_OddAndEvenProduct\obj\Debug\10_OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\10_OddAndEvenProduct\obj\Debug\10_OddAndEvenProduct.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\10_OddAndEvenProduct\obj\Debug\10_OddAndEvenProduct.pdb

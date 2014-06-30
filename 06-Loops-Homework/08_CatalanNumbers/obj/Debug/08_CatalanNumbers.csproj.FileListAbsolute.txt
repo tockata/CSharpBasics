@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\08_CatalanNumbers\bin\Debug\08_CatalanNumbers.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\08_CatalanNumbers\bin\Debug\08_CatalanNumbers.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\08_CatalanNumbers\bin\Debug\08_CatalanNumbers.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\08_CatalanNumbers\obj\Debug\08_CatalanNumbers.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\08_CatalanNumbers\obj\Debug\08_CatalanNumbers.pdb

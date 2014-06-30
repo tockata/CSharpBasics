@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\21_OddEvenElements\bin\Debug\21_OddEvenElements.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\21_OddEvenElements\bin\Debug\21_OddEvenElements.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\21_OddEvenElements\bin\Debug\21_OddEvenElements.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\21_OddEvenElements\obj\Debug\21_OddEvenElements.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\21_OddEvenElements\obj\Debug\21_OddEvenElements.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\21_OddEvenElements\obj\Debug\21_OddEvenElements.pdb

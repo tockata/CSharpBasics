@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\17_CalculateGreatestCommonDivisor\bin\Debug\17_CalculateGreatestCommonDivisor.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\17_CalculateGreatestCommonDivisor\obj\Debug\17_CalculateGreatestCommonDivisor.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\17_CalculateGreatestCommonDivisor\bin\Debug\17_CalculateGreatestCommonDivisor.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\17_CalculateGreatestCommonDivisor\bin\Debug\17_CalculateGreatestCommonDivisor.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\17_CalculateGreatestCommonDivisor\obj\Debug\17_CalculateGreatestCommonDivisor.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\17_CalculateGreatestCommonDivisor\obj\Debug\17_CalculateGreatestCommonDivisor.pdb

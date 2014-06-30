@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\06_NFactorialDividedByKFactorial\bin\Debug\06_NFactorialDividedByKFactorial.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\06_NFactorialDividedByKFactorial\bin\Debug\06_NFactorialDividedByKFactorial.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\06_NFactorialDividedByKFactorial\bin\Debug\06_NFactorialDividedByKFactorial.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\06_NFactorialDividedByKFactorial\obj\Debug\06_NFactorialDividedByKFactorial.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\06_NFactorialDividedByKFactorial\obj\Debug\06_NFactorialDividedByKFactorial.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\06_NFactorialDividedByKFactorial\obj\Debug\06_NFactorialDividedByKFactorial.pdb

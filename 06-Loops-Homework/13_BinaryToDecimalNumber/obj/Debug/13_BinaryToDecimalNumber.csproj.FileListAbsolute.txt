@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\13_BinaryToDecimalNumber\bin\Debug\13_BinaryToDecimalNumber.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\13_BinaryToDecimalNumber\bin\Debug\13_BinaryToDecimalNumber.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\13_BinaryToDecimalNumber\bin\Debug\13_BinaryToDecimalNumber.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\13_BinaryToDecimalNumber\obj\Debug\13_BinaryToDecimalNumber.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\13_BinaryToDecimalNumber\obj\Debug\13_BinaryToDecimalNumber.pdb

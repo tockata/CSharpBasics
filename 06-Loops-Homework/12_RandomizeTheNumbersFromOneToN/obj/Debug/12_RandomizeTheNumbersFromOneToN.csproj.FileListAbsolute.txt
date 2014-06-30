@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\12_RandomizeTheNumbersFromOneToN\bin\Debug\12_RandomizeTheNumbersFromOneToN.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\12_RandomizeTheNumbersFromOneToN\bin\Debug\12_RandomizeTheNumbersFromOneToN.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\12_RandomizeTheNumbersFromOneToN\bin\Debug\12_RandomizeTheNumbersFromOneToN.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\12_RandomizeTheNumbersFromOneToN\obj\Debug\12_RandomizeTheNumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\12_RandomizeTheNumbersFromOneToN\obj\Debug\12_RandomizeTheNumbersFromOneToN.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\12_RandomizeTheNumbersFromOneToN\obj\Debug\12_RandomizeTheNumbersFromOneToN.pdb

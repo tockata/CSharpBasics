@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\05_CalculateExpression\bin\Debug\05_CalculateExpression.exe.config
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\05_CalculateExpression\bin\Debug\05_CalculateExpression.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\05_CalculateExpression\bin\Debug\05_CalculateExpression.pdb
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\05_CalculateExpression\obj\Debug\05_CalculateExpression.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\05_CalculateExpression\obj\Debug\05_CalculateExpression.exe
+D:\C#\C#Basics-Homeworks\06-Loops-Homework\05_CalculateExpression\obj\Debug\05_CalculateExpression.pdb
