@@ -20,7 +20,7 @@ class DecimalToBinaryNumber
             {
                 int digit = (int)number & 1;
                 number >>= 1;
-                result = digit.ToString() + "" + result;
+                result = digit.ToString() + result;
             }
             Console.WriteLine(result);
         }

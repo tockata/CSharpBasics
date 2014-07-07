@@ -19,23 +19,13 @@ class DecimalToHexadecimalNumber
 
             switch (digitInHex)
             {
-                case 0: output = digitInHex.ToString() + "" + output; break;
-                case 1: output = digitInHex.ToString() + "" + output; break;
-                case 2: output = digitInHex.ToString() + "" + output; break;
-                case 3: output = digitInHex.ToString() + "" + output; break;
-                case 4: output = digitInHex.ToString() + "" + output; break;
-                case 5: output = digitInHex.ToString() + "" + output; break;
-                case 6: output = digitInHex.ToString() + "" + output; break;
-                case 7: output = digitInHex.ToString() + "" + output; break;
-                case 8: output = digitInHex.ToString() + "" + output; break;
-                case 9: output = digitInHex.ToString() + "" + output; break;
-                case 10: output = 'A' + "" + output; break;
-                case 11: output = 'B' + "" + output; break;
-                case 12: output = 'C' + "" + output; break;
-                case 13: output = 'D' + "" + output; break;
-                case 14: output = 'E' + "" + output; break;
-                case 15: output = 'F' + "" + output; break;
-                default: break;
+                case 10: output = 'A' + output; break;
+                case 11: output = 'B' + output; break;
+                case 12: output = 'C' + output; break;
+                case 13: output = 'D' + output; break;
+                case 14: output = 'E' + output; break;
+                case 15: output = 'F' + output; break;
+                default: output = digitInHex + output; break;
             }
         }
         Console.WriteLine(output);
