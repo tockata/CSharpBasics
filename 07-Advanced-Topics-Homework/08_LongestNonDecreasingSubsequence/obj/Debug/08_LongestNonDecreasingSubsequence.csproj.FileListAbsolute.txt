@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\08_LongestNonDecreasingSubsequence\bin\Debug\08_LongestNonDecreasingSubsequence.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\08_LongestNonDecreasingSubsequence\bin\Debug\08_LongestNonDecreasingSubsequence.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\08_LongestNonDecreasingSubsequence\bin\Debug\08_LongestNonDecreasingSubsequence.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\08_LongestNonDecreasingSubsequence\obj\Debug\08_LongestNonDecreasingSubsequence.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\08_LongestNonDecreasingSubsequence\obj\Debug\08_LongestNonDecreasingSubsequence.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\08_LongestNonDecreasingSubsequence\obj\Debug\08_LongestNonDecreasingSubsequence.pdb

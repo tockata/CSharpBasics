@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Write a method that calculates all prime numbers in given range and returns them as list of integers.
+
+using System;
 using System.Collections.Generic;
 
 class PrimesInGivenRange

@@ -4,3 +4,9 @@ D:\C#\07-Advanced-Topics-Homework\01_FibonacciNumbers\bin\Debug\01_FibonacciNumb
 D:\C#\07-Advanced-Topics-Homework\01_FibonacciNumbers\bin\Debug\01_FibonacciNumbers.pdb
 D:\C#\07-Advanced-Topics-Homework\01_FibonacciNumbers\obj\Debug\01_FibonacciNumbers.exe
 D:\C#\07-Advanced-Topics-Homework\01_FibonacciNumbers\obj\Debug\01_FibonacciNumbers.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\01_FibonacciNumbers\bin\Debug\01_FibonacciNumbers.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\01_FibonacciNumbers\obj\Debug\01_FibonacciNumbers.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\01_FibonacciNumbers\obj\Debug\01_FibonacciNumbers.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\01_FibonacciNumbers\bin\Debug\01_FibonacciNumbers.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\01_FibonacciNumbers\bin\Debug\01_FibonacciNumbers.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\01_FibonacciNumbers\obj\Debug\01_FibonacciNumbers.csprojResolveAssemblyReference.cache

@@ -4,3 +4,9 @@ D:\C#\07-Advanced-Topics-Homework\02_PrimeChecker\bin\Debug\02_PrimeChecker.pdb
 D:\C#\07-Advanced-Topics-Homework\02_PrimeChecker\obj\Debug\02_PrimeChecker.csprojResolveAssemblyReference.cache
 D:\C#\07-Advanced-Topics-Homework\02_PrimeChecker\obj\Debug\02_PrimeChecker.exe
 D:\C#\07-Advanced-Topics-Homework\02_PrimeChecker\obj\Debug\02_PrimeChecker.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\02_PrimeChecker\bin\Debug\02_PrimeChecker.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\02_PrimeChecker\obj\Debug\02_PrimeChecker.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\02_PrimeChecker\obj\Debug\02_PrimeChecker.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\02_PrimeChecker\bin\Debug\02_PrimeChecker.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\02_PrimeChecker\bin\Debug\02_PrimeChecker.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\02_PrimeChecker\obj\Debug\02_PrimeChecker.csprojResolveAssemblyReference.cache

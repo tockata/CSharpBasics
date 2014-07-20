@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\16_CountingWordInText\bin\Debug\16_CountingWordInText.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\16_CountingWordInText\bin\Debug\16_CountingWordInText.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\16_CountingWordInText\bin\Debug\16_CountingWordInText.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\16_CountingWordInText\obj\Debug\16_CountingWordInText.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\16_CountingWordInText\obj\Debug\16_CountingWordInText.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\16_CountingWordInText\obj\Debug\16_CountingWordInText.csprojResolveAssemblyReference.cache

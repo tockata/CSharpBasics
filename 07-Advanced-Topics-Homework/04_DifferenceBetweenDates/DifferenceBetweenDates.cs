@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Write a program that enters two dates in format dd.MM.yyyy and returns the number of days between them.
+
+using System;
 using System.Globalization;
 
 class DifferenceBetweenDates

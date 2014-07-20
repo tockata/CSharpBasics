@@ -4,3 +4,9 @@ D:\C#\07-Advanced-Topics-Homework\03_PrimesInGivenRange\bin\Debug\03_PrimesInGiv
 D:\C#\07-Advanced-Topics-Homework\03_PrimesInGivenRange\obj\Debug\03_PrimesInGivenRange.csprojResolveAssemblyReference.cache
 D:\C#\07-Advanced-Topics-Homework\03_PrimesInGivenRange\obj\Debug\03_PrimesInGivenRange.exe
 D:\C#\07-Advanced-Topics-Homework\03_PrimesInGivenRange\obj\Debug\03_PrimesInGivenRange.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\03_PrimesInGivenRange\bin\Debug\03_PrimesInGivenRange.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\03_PrimesInGivenRange\obj\Debug\03_PrimesInGivenRange.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\03_PrimesInGivenRange\obj\Debug\03_PrimesInGivenRange.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\03_PrimesInGivenRange\bin\Debug\03_PrimesInGivenRange.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\03_PrimesInGivenRange\bin\Debug\03_PrimesInGivenRange.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\03_PrimesInGivenRange\obj\Debug\03_PrimesInGivenRange.csprojResolveAssemblyReference.cache

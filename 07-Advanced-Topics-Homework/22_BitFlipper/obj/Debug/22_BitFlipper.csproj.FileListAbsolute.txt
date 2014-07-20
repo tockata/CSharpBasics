@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\22_BitFlipper\bin\Debug\22_BitFlipper.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\22_BitFlipper\bin\Debug\22_BitFlipper.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\22_BitFlipper\bin\Debug\22_BitFlipper.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\22_BitFlipper\obj\Debug\22_BitFlipper.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\22_BitFlipper\obj\Debug\22_BitFlipper.pdb

@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\20_ProgrammerDNA\bin\Debug\20_ProgrammerDNA.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\20_ProgrammerDNA\bin\Debug\20_ProgrammerDNA.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\20_ProgrammerDNA\bin\Debug\20_ProgrammerDNA.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\20_ProgrammerDNA\obj\Debug\20_ProgrammerDNA.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\20_ProgrammerDNA\obj\Debug\20_ProgrammerDNA.pdb

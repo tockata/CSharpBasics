@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\10_JoinLists\bin\Debug\10_JoinLists.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\10_JoinLists\bin\Debug\10_JoinLists.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\10_JoinLists\bin\Debug\10_JoinLists.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\10_JoinLists\obj\Debug\10_JoinLists.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\10_JoinLists\obj\Debug\10_JoinLists.pdb

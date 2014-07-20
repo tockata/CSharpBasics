@@ -4,3 +4,9 @@ D:\C#\07-Advanced-Topics-Homework\06_LongestAreaInArray\bin\Debug\06_LongestArea
 D:\C#\07-Advanced-Topics-Homework\06_LongestAreaInArray\obj\Debug\06_LongestAreaInArray.csprojResolveAssemblyReference.cache
 D:\C#\07-Advanced-Topics-Homework\06_LongestAreaInArray\obj\Debug\06_LongestAreaInArray.exe
 D:\C#\07-Advanced-Topics-Homework\06_LongestAreaInArray\obj\Debug\06_LongestAreaInArray.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\06_LongestAreaInArray\bin\Debug\06_LongestAreaInArray.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\06_LongestAreaInArray\obj\Debug\06_LongestAreaInArray.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\06_LongestAreaInArray\obj\Debug\06_LongestAreaInArray.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\06_LongestAreaInArray\bin\Debug\06_LongestAreaInArray.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\06_LongestAreaInArray\bin\Debug\06_LongestAreaInArray.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\06_LongestAreaInArray\obj\Debug\06_LongestAreaInArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\18_InsidetheBuilding\bin\Debug\18_InsidetheBuilding.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\18_InsidetheBuilding\bin\Debug\18_InsidetheBuilding.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\18_InsidetheBuilding\bin\Debug\18_InsidetheBuilding.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\18_InsidetheBuilding\obj\Debug\18_InsidetheBuilding.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\18_InsidetheBuilding\obj\Debug\18_InsidetheBuilding.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\18_InsidetheBuilding\obj\Debug\18_InsidetheBuilding.pdb

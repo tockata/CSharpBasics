@@ -1,1 +1,7 @@
 D:\C#\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\bin\Debug\07_MatrixOfPalindromes.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\bin\Debug\07_MatrixOfPalindromes.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\bin\Debug\07_MatrixOfPalindromes.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\bin\Debug\07_MatrixOfPalindromes.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\obj\Debug\07_MatrixOfPalindromes.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\obj\Debug\07_MatrixOfPalindromes.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\07_MatrixOfPalindromes\obj\Debug\07_MatrixOfPalindromes.csprojResolveAssemblyReference.cache

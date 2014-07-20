@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\19_StudentCables\bin\Debug\19_StudentCables.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\19_StudentCables\bin\Debug\19_StudentCables.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\19_StudentCables\bin\Debug\19_StudentCables.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\19_StudentCables\obj\Debug\19_StudentCables.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\19_StudentCables\obj\Debug\19_StudentCables.pdb

@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\12_CountOfNames\bin\Debug\12_CountOfNames.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\12_CountOfNames\bin\Debug\12_CountOfNames.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\12_CountOfNames\bin\Debug\12_CountOfNames.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\12_CountOfNames\obj\Debug\12_CountOfNames.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\12_CountOfNames\obj\Debug\12_CountOfNames.pdb

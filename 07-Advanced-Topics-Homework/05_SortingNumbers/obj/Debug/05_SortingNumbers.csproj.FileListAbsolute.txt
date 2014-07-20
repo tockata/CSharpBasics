@@ -3,3 +3,8 @@ D:\C#\07-Advanced-Topics-Homework\05_SortingNumbers\bin\Debug\05_SortingNumbers.
 D:\C#\07-Advanced-Topics-Homework\05_SortingNumbers\bin\Debug\05_SortingNumbers.pdb
 D:\C#\07-Advanced-Topics-Homework\05_SortingNumbers\obj\Debug\05_SortingNumbers.exe
 D:\C#\07-Advanced-Topics-Homework\05_SortingNumbers\obj\Debug\05_SortingNumbers.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\05_SortingNumbers\bin\Debug\05_SortingNumbers.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\05_SortingNumbers\obj\Debug\05_SortingNumbers.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\05_SortingNumbers\obj\Debug\05_SortingNumbers.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\05_SortingNumbers\bin\Debug\05_SortingNumbers.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\05_SortingNumbers\bin\Debug\05_SortingNumbers.pdb

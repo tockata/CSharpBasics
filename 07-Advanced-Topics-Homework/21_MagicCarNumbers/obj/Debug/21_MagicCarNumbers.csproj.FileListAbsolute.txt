@@ -1,0 +1,5 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\21_MagicCarNumbers\bin\Debug\21_MagicCarNumbers.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\21_MagicCarNumbers\bin\Debug\21_MagicCarNumbers.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\21_MagicCarNumbers\bin\Debug\21_MagicCarNumbers.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\21_MagicCarNumbers\obj\Debug\21_MagicCarNumbers.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\21_MagicCarNumbers\obj\Debug\21_MagicCarNumbers.pdb

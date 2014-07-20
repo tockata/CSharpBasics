@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Define a method Fib(n) that calculates the nth Fibonacci number.
+
+using System;
 using System.Numerics;
 
 class FibonacciNumbers

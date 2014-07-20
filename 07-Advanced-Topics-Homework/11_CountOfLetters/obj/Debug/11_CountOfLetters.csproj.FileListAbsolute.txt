@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\11_CountOfLetters\bin\Debug\11_CountOfLetters.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\11_CountOfLetters\bin\Debug\11_CountOfLetters.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\11_CountOfLetters\bin\Debug\11_CountOfLetters.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\11_CountOfLetters\obj\Debug\11_CountOfLetters.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\11_CountOfLetters\obj\Debug\11_CountOfLetters.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\11_CountOfLetters\obj\Debug\11_CountOfLetters.pdb

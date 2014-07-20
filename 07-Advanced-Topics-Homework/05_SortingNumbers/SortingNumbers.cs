@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Write a program that reads a number n and a sequence of n integers, sorts them and prints them.
+
+using System;
 
 class SortingNumbers
 {

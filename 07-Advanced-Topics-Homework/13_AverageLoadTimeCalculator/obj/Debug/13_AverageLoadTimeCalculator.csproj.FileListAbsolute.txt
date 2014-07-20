@@ -1,0 +1,6 @@
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\13_AverageLoadTimeCalculator\bin\Debug\13_AverageLoadTimeCalculator.exe.config
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\13_AverageLoadTimeCalculator\bin\Debug\13_AverageLoadTimeCalculator.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\13_AverageLoadTimeCalculator\bin\Debug\13_AverageLoadTimeCalculator.pdb
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\13_AverageLoadTimeCalculator\obj\Debug\13_AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\13_AverageLoadTimeCalculator\obj\Debug\13_AverageLoadTimeCalculator.exe
+D:\C#\C#Basics-Homeworks\07-Advanced-Topics-Homework\13_AverageLoadTimeCalculator\obj\Debug\13_AverageLoadTimeCalculator.pdb
